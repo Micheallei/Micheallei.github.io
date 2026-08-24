@@ -40,7 +40,7 @@ I am always happy to chat about research or collaboration — feel free to reach
 
 # 📝 Publications
 
-Authors are listed in publication order and my name is in bold; <sup>†</sup> marks co-first authorship. A full list is also available on [Google Scholar](https://scholar.google.com/citations?user=MVUVrxQAAAAJ&hl=en), [DBLP](https://dblp.org/pid/319/4131.html) and [ORCID](https://orcid.org/0009-0006-3235-8674).
+Authors are listed in publication order and my name is in bold. A full list is also available on [Google Scholar](https://scholar.google.com/citations?user=MVUVrxQAAAAJ&hl=en), [DBLP](https://dblp.org/pid/319/4131.html) and [ORCID](https://orcid.org/0009-0006-3235-8674).
 
 ## Human-like Intelligence and Social Reasoning
 
@@ -53,11 +53,6 @@ Authors are listed in publication order and my name is in bold; <sup>†</sup> m
   **Yuxuan Lei**, Tianfu Wang, Jianxun Lian, Zhengyu Hu, Defu Lian, Xing Xie  
   Builds the *Cognitive Genome Dataset* grounded in Lewin's Equation, modeling real user behavior as a dynamic interaction among person, environment and behavior, and trains HumanLLM to capture user preferences, thoughts and individual behavioral patterns.  
   [\[arXiv\]](https://arxiv.org/abs/2601.15793) [\[ACM\]](https://dl.acm.org/doi/10.1145/3770854.3780294) <span class='show_paper_citations' data='MVUVrxQAAAAJ:LPtt_HFRSbwC'></span>
-
-- `Preprint 2026` [SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice](https://arxiv.org/abs/2606.04155)  
-  Tianfu Wang<sup>†</sup>, Max Xiong, Jianxun Lian, Hongyuan Zhu, Zhengyu Hu, **Yuxuan Lei**<sup>†</sup>, Linxiao Gong, Xiaofang Li, Peiting Tsai, Nicholas Jing Yuan, Qi Zhang  
-  Casts open-ended social skill training as cold-start, retrieval-constrained sequential practice scheduling, pairing a theory-to-practice social knowledge corpus with a prescription–retrieval–adaptation scheduler optimized by trajectory-level GRPO.  
-  [\[arXiv\]](https://arxiv.org/abs/2606.04155)
 
 - `Preprint 2026` [Social-R1: Towards Human-like Social Reasoning in LLMs](https://arxiv.org/abs/2603.09249)  
   Jincenzi Wu, **Yuxuan Lei**, Jianxun Lian, Yitian Huang, Lexin Zhou, Haotian Li, Xing Xie, Helen Meng  
