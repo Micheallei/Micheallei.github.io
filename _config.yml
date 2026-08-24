@@ -24,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxuan Lei"
   avatar           : "images/profile.jpg"
-  bio              : "Joint Ph.D. Student, USTC &amp; MSRA"
+  # bio              : "Ph.D. Student, USTC &amp; MSRA"
   location         : "Hefei / Beijing, China"
-  employer         : "Qwen Foundation Model Team"
+  employer         : "Qwen Team"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MVUVrxQAAAAJ&hl=en"
   email            : "leiyuxuan@mail.ustc.edu.cn"
