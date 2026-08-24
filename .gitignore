@@ -1,3 +1,7 @@
 _site/
 push.sh
 .DS_Store
+
+# Personal résumé — keep local, never publish
+/雷雨轩 简历v4.pdf
+*简历*.pdf

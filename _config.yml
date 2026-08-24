@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yuxuan Lei"
+description              : "Joint Ph.D. student at USTC and Microsoft Research Asia. I work on LLM post-training, human-like intelligence and LLM agents."
+url                      : "https://micheallei.github.io"
+repository               : "Micheallei/Micheallei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yuxuan Lei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "Joint Ph.D. Student, USTC &amp; MSRA"
+  location         : "Hefei / Beijing, China"
+  employer         : "Qwen Foundation Model Team"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=MVUVrxQAAAAJ&hl=en"
+  email            : "leiyuxuan@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Micheallei"
   google_plus      :
   keybase          :
   instagram        :
