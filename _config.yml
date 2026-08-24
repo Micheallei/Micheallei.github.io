@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuxuan Lei"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.jpg"
   bio              : "Joint Ph.D. Student, USTC &amp; MSRA"
   location         : "Hefei / Beijing, China"
   employer         : "Qwen Foundation Model Team"
@@ -45,8 +45,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/319/4131.html"
+  orcid            : "https://orcid.org/0009-0006-3235-8674"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

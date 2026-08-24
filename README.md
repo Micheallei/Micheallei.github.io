@@ -1,3 +1,16 @@
+# Yuxuan Lei's Homepage
+
+Source of <https://micheallei.github.io>. Built with Jekyll on top of the
+[AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template.
+
+- Page content lives in `_pages/about.md`; site-wide settings and profile links in `_config.yml`.
+- Citation counts are fetched at page load from the `google-scholar-stats` branch, which the
+  `Get Citation Data` GitHub Action refreshes daily (and on demand via *Run workflow*).
+- Local preview: `bundle install && ./run_server.sh`.
+
+The template documentation follows.
+
+---
 
 <h1 align="center">
 AcadHomepage
