@@ -50,7 +50,7 @@ Authors are listed in publication order and my name is in bold. A full list is a
 
 - `KDD 2026` [HumanLLM: Towards Personalized Understanding and Simulation of Human Nature](https://dl.acm.org/doi/10.1145/3770854.3780294)  
   **Yuxuan Lei**, Tianfu Wang, Jianxun Lian, Zhengyu Hu, Defu Lian, Xing Xie  
-  [\[Paper\]](https://dl.acm.org/doi/10.1145/3770854.3780294) [\[Code\]](https://github.com/Micheallei/AnthropomorphicIntelligence/tree/main/HumanLLM)
+  [\[Paper\]](https://dl.acm.org/doi/10.1145/3770854.3780294) [\[Code\]](https://github.com/microsoft/AnthropomorphicIntelligence/tree/main/HumanLLM)
 
 - `Preprint 2026` [Social-R1: Towards Human-like Social Reasoning in LLMs](https://arxiv.org/abs/2603.09249)  
   Jincenzi Wu, **Yuxuan Lei**, Jianxun Lian, Yitian Huang, Lexin Zhou, Haotian Li, Xing Xie, Helen Meng  
